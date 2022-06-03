@@ -1,0 +1,24 @@
+
+.background {
+    background-color: hsl(0, 73%, 80%);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.text {
+    font-size: 24px;
+}
+
+#number2 {
+    color: blue;
+    font-size: 36px;
+}
+
+#number4 {
+    background-color: hsl(120, 66%, 69%);
+    font-size: 24px;
+    font-weight: bold;
+}
+
+
+
+
